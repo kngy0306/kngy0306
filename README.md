@@ -1,5 +1,5 @@
 ### Welcome, My GitHub!! 😆
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kngy0306&show_icons=true)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kngy0306&show_icons=true&theme=radical)
 
 <!--
 <a href="https://github.com/kngy0306?tab=repositories">
