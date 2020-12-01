@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/kngy0306=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kngy0306&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kngy0306/kngy0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
