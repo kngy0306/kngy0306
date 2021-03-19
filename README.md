@@ -8,10 +8,12 @@
 </a>
 -->
 
+　<!--
 <a href="https://github.com/kngy0306?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kngy0306&hide=c#" />
 </a
-  
+-->
+
 <!--
 **kngy0306/kngy0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
