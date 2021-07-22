@@ -1,8 +1,12 @@
 ### Welcome, My GitHub!! 😆
 
+### MyProfile
+https://kona4.com/page/about/
+
+### Projects
 https://github.com/jin237/GFS
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kngy0306&show_icons=true)
+<!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kngy0306&show_icons=true) -->
 
 <!--
 <a href="https://github.com/kngy0306?tab=repositories">
