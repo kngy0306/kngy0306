@@ -1,7 +1,7 @@
 ### Welcome, My GitHub!! 😆
 
 ### MyProfile
-https://kona4.com/page/about/
+https://kona4.com/about/
 
 ### Projects
 https://github.com/jin237/GFS
