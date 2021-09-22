@@ -6,20 +6,7 @@ https://kona4.com/about/
 ### Projects
 https://github.com/jin237/GFS
 
-<!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kngy0306&show_icons=true) -->
-
-<!--
-<a href="https://github.com/kngy0306?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kngy0306&show_icons=true" />
-</a>
--->
-
-　<!--
-<a href="https://github.com/kngy0306?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kngy0306&hide=c#" />
-</a
--->
-
-<!--
-**kngy0306/kngy0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### Interested in
+![](https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=for-the-badge)
+![](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=for-the-badge)
+![](https://img.shields.io/badge/-React-555.svg?logo=react&style=for-the-badge)
