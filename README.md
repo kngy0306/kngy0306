@@ -11,5 +11,6 @@ https://kona4.com/about/
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kngy0306&layout=compact&theme=onedark)](https://github.com/kngy0306/github-readme-stats) -->
 
+<!-- 
 ### Top Languages
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kngy0306&langs_count=10&layout=compact&hide_border=true&&title_color=777777&text_color=777777&icon_color=777777&bg_color=00000000&border_color=00000000&hide=Jupyter%20Notebook" width="50%" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kngy0306&langs_count=10&layout=compact&hide_border=true&&title_color=777777&text_color=777777&icon_color=777777&bg_color=00000000&border_color=00000000&hide=Jupyter%20Notebook" width="50%" /> -->
